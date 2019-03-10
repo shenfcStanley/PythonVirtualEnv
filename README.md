@@ -6,4 +6,5 @@
 4. Use command "conda activate your_env_name" to activate the environment, use command "conda deactivate" to deactivate it.
 5. then we can install package diretly use command, such as "conda install tensorflow"
 6. Go to pycharm, go to preference->project intepreter->add local->Conda Environment, choose the installed anaconda new env as interpreter. Directory is "~/anaconda3/envs/xxx/bin/python"
+7. Since we already created the environment, so in PyCharm, we chooose existing environment, and go to find the python executable file under directory "~/anaconda3/envs/xxx/bin/python".
 
