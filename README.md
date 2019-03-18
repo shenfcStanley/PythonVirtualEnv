@@ -15,3 +15,5 @@
 2. conda install ipykernel
 3. ipython kernel install --user --name=<any_name_for_kernel>, after this, system will create a new kernel directory under "/Users/m102853/Library/Jupyter/kernels/<any_name_for_kernel>"
 4. Then in notebook, you can test your sys path by using "sys.executable"
+
+Reference:https://stackoverflow.com/questions/37433363/link-conda-environment-with-jupyter-notebook
